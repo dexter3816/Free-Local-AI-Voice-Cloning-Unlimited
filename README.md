@@ -33,7 +33,7 @@ This is **NOT** a Python script you have to debug. This is a compiled, portable 
 
 **[👉 DOWNLOAD THE RENDERSTACK ENGINE HERE (Gumroad)](https://renderstackstudio.gumroad.com/l/Audio)**
 
-*(Use code **EARLYBIRDEARLYBIRD** for 25% OFF - Limited Time)*
+*💰 Affiliate Program (50% Com): https://renderstackstudio.gumroad.com/affiliates*
 
 ---
 
